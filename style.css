@@ -13,8 +13,8 @@ body{
 }
 
 .card{
-    width: 55%;
-    height: 85%;
+    width: 768px;
+    height: 768px;
     background-image: url("https://i.pinimg.com/564x/48/95/63/4895630fd863595ba6ef02173019f4ae.jpg");
     background-size: 100%;
     background-position: center;
